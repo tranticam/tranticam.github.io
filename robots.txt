@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tranticam.github.io/sitemap.html.gz
+Sitemap: https://tranticam.github.io/app/sitemap.html.gz
+Sitemap: https://tranticam.github.io/assets/sitemap.html.gz
+Sitemap: https://tranticam.github.io/css/sitemap.html.gz
+Sitemap: https://tranticam.github.io/data/sitemap.html.gz
+Sitemap: https://tranticam.github.io/includes/sitemap.html.gz
+Sitemap: https://tranticam.github.io/item/sitemap.html.gz
+Sitemap: https://tranticam.github.io/src/sitemap.html.gz
